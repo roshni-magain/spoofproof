@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+sklearn
+openpyxl
+textblob 
+PIL
+nltk
+imblearn
+multiapp
+apps
