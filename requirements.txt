@@ -4,7 +4,6 @@ numpy
 sklearn
 openpyxl
 textblob 
-PIL
 nltk
 imblearn
 multiapp
